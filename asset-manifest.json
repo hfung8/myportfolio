@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/myportfolio/static/css/main.caf8f8cf.chunk.css",
+    "main.js": "/myportfolio/static/js/main.f06811a6.chunk.js",
+    "main.js.map": "/myportfolio/static/js/main.f06811a6.chunk.js.map",
+    "runtime-main.js": "/myportfolio/static/js/runtime-main.d0623bfd.js",
+    "runtime-main.js.map": "/myportfolio/static/js/runtime-main.d0623bfd.js.map",
+    "static/css/2.67731326.chunk.css": "/myportfolio/static/css/2.67731326.chunk.css",
+    "static/js/2.fdc6584c.chunk.js": "/myportfolio/static/js/2.fdc6584c.chunk.js",
+    "static/js/2.fdc6584c.chunk.js.map": "/myportfolio/static/js/2.fdc6584c.chunk.js.map",
+    "index.html": "/myportfolio/index.html",
+    "precache-manifest.1be57c84ce9e4a73ba4913c1fc52e8e0.js": "/myportfolio/precache-manifest.1be57c84ce9e4a73ba4913c1fc52e8e0.js",
+    "service-worker.js": "/myportfolio/service-worker.js",
+    "static/css/2.67731326.chunk.css.map": "/myportfolio/static/css/2.67731326.chunk.css.map",
+    "static/css/main.caf8f8cf.chunk.css.map": "/myportfolio/static/css/main.caf8f8cf.chunk.css.map",
+    "static/media/7seconds.png": "/myportfolio/static/media/7seconds.c17186cc.png",
+    "static/media/Card_game.png": "/myportfolio/static/media/Card_game.c938d0a3.png",
+    "static/media/OHU.png": "/myportfolio/static/media/OHU.fdd703b3.png",
+    "static/media/Open_weather.png": "/myportfolio/static/media/Open_weather.6a1d6cbd.png",
+    "static/media/YumCache.png": "/myportfolio/static/media/YumCache.98be4142.png",
+    "static/media/harrycircle.png": "/myportfolio/static/media/harrycircle.74aa02f2.png"
+  }
+}
